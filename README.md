@@ -54,7 +54,7 @@ General requirements. Please be aware that a set of requirements especific for e
 ## Weekly Sessions
 
   ### Week 1: (Mobile Robots – Fundamentals)
-  This week will introduce the teaching team and the basics of ROS.
+  This week will introduce the teaching team and the basics of dynamical systems.
   #### Session 1:
   * Course Introduction.
   *	Dynamical Systems.
@@ -78,58 +78,106 @@ General requirements. Please be aware that a set of requirements especific for e
   
   **Requirements:** Computer with access to Zoom, Ubuntu 18.04 and ROS Melodic Installed (Full installation).
   
-  ### Week 2: (ROS Practicalities)  
-  This week will introduce some useful ROS practicalities.
+  ### Week 2: (Uncertainty in mobile robotics)  
+  This week will introduce some basics of probabilities.
   #### Session 1:
-  * ROS Namespaces
-  * ROS Parameter Server
-  * Activity 1: Parametrise previous nodes
+  * Introduction to probabilities
+    -	Preliminaries (Basics).
+    -	Discrete random variables.
+    -	Continuous random variables.
+    -	Distributions (Uniform, Gaussian)
+  *	Linearisation – Fundamentals
+
   #### Session 2:
-  * ROS Custom Messages
-  * Q&A
+  * Ellipsoid of confidence.
+  *	Mobile robot localisation (dead reckoning) in presence of uncertainties
   
-  **Mini challenge:**: P/PI Controller from scratch to a 1st order simulated system.
+  **Mini challenge:**: 
+  * Linearise of a dynamical system and compare its behaviour with the original nonlinear real system.
+  *	Mobile robot linearisation.
+  *	Plot the confidence ellipsoid of a mobile robot. Use the multiple point navigation.
   
   **Requirements:** Requirements of Session 1.
 
-  ### Week 3: ROS-Hardware Communication
-  This week will introduce hardware communication between ROS and the Hackerboard using ROSSerial.
+  ### Week 3: Q&A
+  This week will be dedicated to a Q&A session.
   #### Session 1:
-  * Motor Control Theory
-  * ROS Serial
-  * Arduino
-  * ROS Serial/Arduino Communication.
+  * Q&A Session
   
-  **Mini challenge:** Motor Speed regulation using ROS.
   #### Session 2:
   * Q&A Session.
   
-  **Requirements:** Requirements of Session 1, Installation of the Arduino IDE and the Rosserial package in the VM or Ubuntu (See instructions on Session2 MCR2_Arduino_IDE_Confirguration), Access to Hackerboard and a MCR2 DC motor.
-    * In case you have no access to the Hackeborad, the hardware can be replaced for an Arduino Mega, a L298n Motor Driver and a DC motor brushed with encoder (More information MCR2_General_Information_Prerequisites).
+  **Requirements:** Requirements of Session 1.
   
-  ### Week 4: ROS Data Acquisition
-  This week will introduce how to acquire data between ROS and the Hackerboard using ROSserial.
+  ### Week 4: Reactive navigation
+  This week will introduce the concept of reactive navigation for robotics.
   #### Session 1:
-  * Encoder Basic Theory
-  
-  **Mini challenge:** Acquire data from the encoders using Arduino.
-  **Final Challenge:** PID Controller using ROS and compare with simulation.
-
+  * •	Exteroceptive sensors.
+  *	Obstacle avoidance
+  *	Obstacle avoidance algorithms: 
+    - Bug 0, Bug 1, Bug 2.
   
   #### Session 2:
   * Q&A Session.
   
   **Requirements:** Requirements of Session 1 and Session 3.
+  
+  **Mini challenge:**: 
+  * Implementation of obstacle avoidance algorithms Bug 0 and Bug 2 in simulation (Gazebo) and with the real robot.
+  
   
   ### Week 5: Final Challenge
-  Final Challenge presentation week.
+  This week will be dedicated to a Q&A session.
   
-  **Final Challenge:**: PID Controller using ROS and compare with simulation.
   #### Session 1:
   * Q&A Session.
   #### Session 2:
-  * Final Challenge.
+  * Q&A Session.
   
-  **Requirements:** Requirements of Session 1 and Session 3.
+  **Requirements:** Requirements of Session 1.
 
-  Hola
+  ### Week 6: Sources of information
+  This week the concept of Kalman filter will be introduced.
+  
+  #### Session 1:
+  * Bayes Filter.
+  *	Kalman Filter
+  *	Kalman Filter for map-based localisation (2D).
+
+  #### Session 2:
+  * Kalman Filter for map-based localisation (2D).
+  *	Camera based localisation for mobile robots.
+    -	Aruco markers
+    -	Visual localisation of mobile robots using Aruco markers
+    -	Kalman filter for map-based localisation in 3D. Kalman filter estimation by combining visual localization with encoder information.
+
+  
+  **Requirements:** Requirements of Session 1.
+
+
+  ### Week 7: Final Challenge
+  This week the Final Challenge will be presented.
+  
+  #### Final Challenge
+  *	Mobile robots’ navigation
+  *	Camera based Kalman filter localisation for the Puzzlebot. (Steps)
+    1.	Multiple point navigation with obstacle avoidance. Use Dead reckoning localization.
+    2.	Multiple point navigation no obstacles, using visual based localisation.
+    3.	Multiple point navigation no obstacles, using Kalman filter estimation.
+    4.	Multiple point navigation with obstacles, using Kalman filter estimation. 
+
+  ### Week 8: Final Challenge
+  This week will be dedicated to a Q&A session.
+  
+  #### Session 1:
+  * Q&A Session.
+  #### Session 2:
+  * Q&A Session.
+
+  ### Week 9: Grading
+  This week will be dedicated to a Q&A session.
+  
+  #### Session 1:
+  * Q&A Session.
+  #### Session 2:
+  * Grading.
