@@ -43,6 +43,14 @@ General requirements. Please be aware that a set of requirements especific for e
 * Access to a Puzzlebot Jetson/Lidar Edition. 
 
 
+  <br/><br/><br/>
+  <picture>
+  <source media="(prefers-color-scheme: light)" srcset="https://github.com/ManchesterRoboticsLtd/TE3003B_Integration_of_Robotics_and_Intelligent_Systems/blob/main/Misc/Logos/course.png">
+  <img alt="Shows Hardware required." width="650" align="center">
+  </picture>
+  <br/><br/>
+
+
 ## Weekly Sessions
 
   ### Week 1: (Mobile Robots – Fundamentals)
