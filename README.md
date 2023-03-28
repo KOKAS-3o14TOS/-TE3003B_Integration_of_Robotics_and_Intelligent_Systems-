@@ -11,7 +11,7 @@
 </picture>
 
 ---
-# TE3001B: Robotics Foundation
+# TE3003B: Integration of Robotics and Intelligent Systems
 
   ## Introduction
    * This course, developed by Manchester Robotics ltd. (MCR2), aims to provide students with understanding of modern autonomous systems.
@@ -46,7 +46,7 @@ General requirements. Please be aware that a set of requirements especific for e
   <br/><br/><br/>
   <picture>
   <source media="(prefers-color-scheme: light)" srcset="https://github.com/ManchesterRoboticsLtd/TE3003B_Integration_of_Robotics_and_Intelligent_Systems/blob/main/Misc/Logos/course.png">
-  <img alt="Shows Hardware required." width="650" align="center">
+  <img alt="Shows Hardware required." width="200" align="center">
   </picture>
   <br/><br/>
 
