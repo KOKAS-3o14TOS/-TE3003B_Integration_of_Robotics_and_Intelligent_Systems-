@@ -10,7 +10,7 @@
   <img alt="Shows MCR2 logo in black or white." width="150" align="right">
 </picture>
 
-# Tec de Monterrey CADI : ROS Introduction
+# Tec de Monterrey: Miscellaneous Files
 
   ## Miscellaneous Files
    * This folder is used for any miscellaneous files used during the course.
