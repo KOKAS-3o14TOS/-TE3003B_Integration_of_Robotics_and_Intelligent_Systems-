@@ -42,14 +42,10 @@ General requirements. Please be aware that a set of requirements especific for e
 * Basic understanding of robotics (recommended).
 * Access to a Puzzlebot Jetson/Lidar Edition. 
 
+## Course Diagram
+![image](https://user-images.githubusercontent.com/67285979/228271953-f19b70f2-d3a7-4691-b3b7-13f8e8d14dd0.png)
 
-  <br/><br/><br/>
-  <picture>
-  <source media="(prefers-color-scheme: light)" srcset="https://github.com/ManchesterRoboticsLtd/TE3003B_Integration_of_Robotics_and_Intelligent_Systems/blob/main/Misc/Logos/course.png">
-  <img alt="course info." width="200" align="center">
-  </picture>
-  <br/><br/>
-
+  
 
 ## Weekly Sessions
 
