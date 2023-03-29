@@ -29,8 +29,7 @@
 * ZOOM Link Classes: https://itesm.zoom.us/j/4779422764
 
 ## Live Sessions (Recordings)
-https://drive.google.com/drive/folders/1zwf-i3HS0DGVfw6-EP8dxm5uoH7hNtVi?usp=sharing
-
+[Live Sessions](https://drive.google.com/drive/folders/1D3qe0rzVFOPstyEce69FFrkXBgMm5ll6?usp=sharing)
  
 ## General Requirements
 General requirements. Please be aware that a set of requirements especific for each session will be shown in each session subsection (Some items may be repeated).
