@@ -47,6 +47,18 @@
 ---
 
 ### Useful Links: 
+
+#### Robotics and Control
+* [Dynamic Model of a Differential Drive Robot](https://www.hilarispublisher.com/open-access/dynamic-modelling-of-differentialdrive-mobile-robots-using-lagrange-and-newtoneuler-methodologies-a-unified-framework-2168-9695.1000107.pdf)
+* [Kinematic Model of Differential Drive Robot](https://globaljournals.org/GJRE_Volume14/1-Kinematics-Localization-and-Control.pdf)
+* [Introduction to Autonomous Mobile Robots](https://ieeexplore.ieee.org/book/6267528)
+* [PID Control](https://ieeexplore.ieee.org/document/1453566)
+* [Closed Loop Control](https://www.electronics-tutorials.ws/systems/closed-loop-system.html)
+* [Nonlineraities and robustness](https://ieeexplore.ieee.org/document/8603065)
+* [Open loop control Tutorial](https://www.electronics-tutorials.ws/systems/open-loop-system.html)
+* [Open Loop Control Tutorial](https://www.electronicshub.org/open-loop-system/)
+* [Open Loop Control Book](https://eng.libretexts.org/Bookshelves/Electrical_Engineering/Signal_Processing_and_Modeling/Introduction_to_Linear_Time-Invariant_Dynamic_Systems_for_Students_of_Engineering_(Hallauer)/14%3A_Introduction_to_Feedback_Control/14.02%3A_Definitions_and_Examples_of_Open-Loop_Control_Systems)
+
 #### Dynamical Systems
   * [Nonlinear Systems](https://books.google.fr/books/about/Nonlinear_Systems.html?id=t_d1QgAACAAJ&redir_esc=y)
   * [Nonlinear & Adaptive Systems](https://digital-library.theiet.org/content/books/ce/pbce084e)
@@ -54,8 +66,15 @@
   * [Linear Systems Primer](https://wp.kntu.ac.ir/hrahmanei/Adv-Control-Books/A-Linear-Systems-Primer.pdf)
   * [Lectures on Nonlinear Systems](https://web.mit.edu/nsl/www/videos/lectures.html)
   * [Applied Nonlinear Control](https://books.google.fr/books/about/Applied_Nonlinear_Control.html?id=cwpRAAAAMAAJ&redir_esc=y)
+  * [Dynamic Model of a DC Motor](https://www.ijser.org/researchpaper/Dynamic-Model-Analysis-of-a-DC-Motor-in-MATLAB.pdf)
+  
 
 #### ROS
+ * [ROS urdf Tutorials](http://wiki.ros.org/urdf/Tutorials)
+ * [ROS urdf](http://wiki.ros.org/urdf)
+ * [ROS TF2 Package](http://wiki.ros.org/tf2)
+ * [ROS TF2 Tutorials](http://wiki.ros.org/tf2/Tutorials)
+ * [ROS Transforms](http://wiki.ros.org/tf2/Tutorials/Introduction%20to%20tf2)
  * [ROS Installation](http://wiki.ros.org/noetic/Installation/Ubuntu)
  * [ROS book](https://www.cse.sc.edu/~jokane/agitr/)
  * [ROS Packages](http://wiki.ros.org/ROS/Tutorials/CreatingPackage)
