@@ -1,49 +1,45 @@
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github.com/ManchesterRoboticsLtd/TE3001B_Robotics_Foundation/blob/main/Misc/Logos/Logotipo%20Vertical%20Bco_Transparente.png">
-  <source media="(prefers-color-scheme: light)" srcset="https://github.com/ManchesterRoboticsLtd/TE3001B_Robotics_Foundation/blob/main/Misc/Logos/Logotipo%20Vertical%20Azul%20transparente.png">
+  <source media="(prefers-color-scheme: dark)" srcset="https://github.com/ManchesterRoboticsLtd/TE3003B_Integration_of_Robotics_and_Intelligent_Systems/blob/main/Misc/Logos/Logotipo%20Vertical%20Bco_Transparente.png">
+  <source media="(prefers-color-scheme: light)" srcset="https://github.com/ManchesterRoboticsLtd/TE3003B_Integration_of_Robotics_and_Intelligent_Systems/blob/main/Misc/Logos/Logotipo%20Vertical%20Azul%20transparente.png">
   <img alt="Shows ITESM logo in black or white." width="160" align="right">
 </picture>
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github.com/ManchesterRoboticsLtd/TE3001B_Robotics_Foundation/blob/main/Misc/Logos/MCR2_Logo_White.png">
-  <source media="(prefers-color-scheme: light)" srcset="https://github.com/ManchesterRoboticsLtd/TE3001B_Robotics_Foundation/blob/main/Misc/Logos/MCR2_Logo_Black.png">
+  <source media="(prefers-color-scheme: dark)" srcset="https://github.com/ManchesterRoboticsLtd/TE3003B_Integration_of_Robotics_and_Intelligent_Systems/blob/main/Misc/Logos/MCR2_Logo_White.png">
+  <source media="(prefers-color-scheme: light)" srcset="https://github.com/ManchesterRoboticsLtd/TE3003B_Integration_of_Robotics_and_Intelligent_Systems/blob/main/Misc/Logos/MCR2_Logo_Black.png">
   <img alt="Shows MCR2 logo in black or white." width="150" align="right">
 </picture>
 
 ---
-# Robotics Foundation Week 3: ROS and Hardware.
-  This session is intended for the students to learn how to connect ROS with external hardware using rosserial tools that will be required in the following sessions. 
-
+# TE3003B Week 3: Introductory session.
+---
+ 
+ This week will introduce the teaching team and the basics of dynamical systems.
+ 
   ## Session 1
-  * In this session, the concepts of rosserial, some examples of usage and the correct structure of the .ino sketch to be programmed in the MCU, will be shown.
-  * The Arduino IDE configuraton for using the rosserial libraries will be shown.
-  * Activity 1: Simple talker publishing from the MCU to the Computer.
 
   
   ## Session 2
-  * In this session, some basic concepts of DC motors ans application examples will be shown.
 
-  ## Mini challenge
-  * Regulate the speed and direction of a motor using a MCU controlled from a computer using rosserial.
-  * The mini challenge and further instructions for this session is located in the folder Challenge. 
 
-  Please note: This repository contains all the neccesary files and presentations given during this session and the instructions for each one of the activities of the session.
+
+  ## Mini Challenge
 
 ---
 
-## Live recordings are stored in the following link
+## YouTube Video
 
-https://drive.google.com/drive/folders/1zwf-i3HS0DGVfw6-EP8dxm5uoH7hNtVi?usp=sharing
 
 ---
 
 ### Useful Links: 
-#### Ubuntu
-  * [Ubuntu Installation](https://ubuntu.com/tutorials/install-ubuntu-desktop#1-overview)
-
-#### Robotics
-* [DC Motors](https://en.wikipedia.org/wiki/DC_motor)
-* [H-Bridge](https://www.youtube.com/watch?v=fVgnUWIWzZ8&ab_channel=NorthwesternRobotics)
+#### Dynamical Systems
+  * [Nonlinear Systems](https://books.google.fr/books/about/Nonlinear_Systems.html?id=t_d1QgAACAAJ&redir_esc=y)
+  * [Nonlinear & Adaptive Systems](https://digital-library.theiet.org/content/books/ce/pbce084e)
+  * [Nonlinear Dynamical Systems](https://books.google.fr/books/about/Nonlinear_Dynamical_Systems.html?id=FPlQAAAAMAAJ&redir_esc=y)
+  * [Linear Systems Primer](https://wp.kntu.ac.ir/hrahmanei/Adv-Control-Books/A-Linear-Systems-Primer.pdf)
+  * [Lectures on Nonlinear Systems](https://web.mit.edu/nsl/www/videos/lectures.html)
+  * [Applied Nonlinear Control](https://books.google.fr/books/about/Applied_Nonlinear_Control.html?id=cwpRAAAAMAAJ&redir_esc=y)
 
 #### ROS
  * [ROS Installation](http://wiki.ros.org/noetic/Installation/Ubuntu)
@@ -52,11 +48,4 @@ https://drive.google.com/drive/folders/1zwf-i3HS0DGVfw6-EP8dxm5uoH7hNtVi?usp=sha
  * [ROS Workspace](http://wiki.ros.org/catkin/Tutorials/create_a_workspace)
  * [Publisher and Subscribers](http://wiki.ros.org/ROS/Tutorials/WritingPublisherSubscriber%28python%29)
  * [Roslaunch](http://wiki.ros.org/roslaunch)
- * [Custom Messages](http://wiki.ros.org/ROS/Tutorials/CustomMessagePublisherSubscriber%28python%29)
- * [Define Custom Messages](http://wiki.ros.org/ROS/Tutorials/DefiningCustomMessages)
- * [Messages and Services](http://wiki.ros.org/ROS/Tutorials/CreatingMsgAndSrv)
-
-#### Virtual Machine (Google Drive): 
-  * [VM Ware](https://drive.google.com/file/d/1Kqt8E69nB5pxYzyVztyoxF0UY9yCHLns/view)
-  * [ROS Preinstalled VM](https://drive.google.com/file/d/1LCn433uN5pf8dcauWDagKEKjORsE3fZR/view)
  ---
