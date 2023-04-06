@@ -34,6 +34,9 @@ This activity is intended for the student to review the concepts introduced in t
       * MCR2_1000_1_1_Wheel_Coupler_2 : Assembly of the Puzzlebot wheels.
       * MCR2_1000_13_Chassis : Model of the Puzzlebot chassis (not including wheels)
 
+  - The gazebo Simulator can be found in the folder "Puzzlebot_Gazebo_Simulator"
+
+  - The step file of the "Puzzlebot_base" can be found in the folder "Puzzlebot_Step_Files".
 
   - Remember to make the nodes executable using the the following command inside the catkin_ws/src/basic_comms/src and catkin_ws/src/basic_comms/src
  folders 
