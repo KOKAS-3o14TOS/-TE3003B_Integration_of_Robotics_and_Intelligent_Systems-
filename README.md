@@ -28,6 +28,9 @@
 * Ends: 1 June
 * ZOOM Link Classes: https://itesm.zoom.us/j/4779422764
 
+## Youtube Videos
+[Class Videos Playlist](https://www.youtube.com/playlist?list=PLqCuMQTwnIP99CrzdPEroGhdAhzVfvWgR)
+
 ## Live Sessions (Recordings)
 [Live Sessions](https://drive.google.com/drive/folders/1D3qe0rzVFOPstyEce69FFrkXBgMm5ll6?usp=sharing)
  
