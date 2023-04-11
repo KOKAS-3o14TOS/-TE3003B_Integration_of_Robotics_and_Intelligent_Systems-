@@ -32,6 +32,11 @@
   * Linearise of a dynamical system and compare its behaviour with the original nonlinear real system.
   * Mobile robot linearisation.
   * Plot the confidence ellipsoid of a mobile robot. Use the multiple point navigation.
+  
+  ## YouTube Video
+  * [Point to point navigation](https://www.youtube.com/watch?v=vBDHNeUKEYU&feature=youtu.be&themeRefresh=1)
+
+  * [Dynamical systems](https://www.youtube.com/playlist?list=PLqCuMQTwnIP99CrzdPEroGhdAhzVfvWgR)
 
 ---
 
