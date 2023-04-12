@@ -42,10 +42,16 @@
 
 ### Useful Links: 
 #### Robotics
+  * [Mobile Robotics](https://www.robots.ox.ac.uk/~pnewman/Teaching/C4CourseResources/C4BMobileRobots.pdf)
   * [Introduction to Autonomous Mobile Robots](https://www.ucg.ac.me/skladiste/blog_13268/objava_56689/fajlovi/Introduction%20to%20Autonomous%20Mobile%20Robots%20book.pdf)
   * [Probabilistic Robotics](https://docs.ufpr.br/~danielsantos/ProbabilisticRobotics.pdf)
   * [Handbook of Robotics](https://link.springer.com/book/10.1007/978-3-540-30301-5)
-  
+  * [A Covariance Matrix Estimation Method for Position Uncertainty of
+the Wheeled Mobile Robot](https://koreascience.kr/article/CFKO200333239337244.pdf)
+  * [Mobile Robotics](https://www.ensta-bretagne.fr/jaulin/kalmooc.pdf)
+  * [Position and orientation control of a two wheeled differentially driven nonholonomic robot](https://www.dca.ufrn.br/~adelardo/artigos/ICINCO04a.pdf)
+
+
   
 
 #### Dynamical Systems

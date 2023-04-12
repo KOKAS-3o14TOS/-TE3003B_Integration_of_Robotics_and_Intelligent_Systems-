@@ -12,28 +12,17 @@
 
 ---
 
-# Week 1: Mini challenge
+# Week 2: Mini challenge
 
-* In this folder, the student will find the neccessary files for Mini challenge 1.
-* The instruction for this challenge can be found inside the presentation *MCR2_MiniChallenge1*
+* In this folder, the student will find the neccessary files for Mini challenge 2.
+* The instruction for this challenge can be found inside the presentation *MCR2_MiniChallenge2*
 
 
 ## Description
 This activity is intended for the student to review the concepts introduced in this week.
 
-  * The challenge is divided into two parts: 
-    * Part 1:
-      * Development of a kinematic simulator for the Puzzlebot robotic platform, using the kinematic model of a nonholonomic robot.
-    * Part 2: 
-      * Analysis of the uncertainties present in the real, gazebo simulation, and kinematic simulation of the Puzzlebot.
 
 ## Notes
-  - The *STL Files* folder, contains the neccessary .stl £D files of the Puzzlebot. 
-  - These fles ar intended to be used for the RVIZ kinematic simulator.
-      * MCR2_1000_0_Puzzlebot : Full Puzzlebot model (including wheels)
-      * MCR2_1000_1_1_Wheel_Coupler_2 : Assembly of the Puzzlebot wheels.
-      * MCR2_1000_13_Chassis : Model of the Puzzlebot chassis (not including wheels)
-
   - The gazebo Simulator can be found in the folder "Puzzlebot_Gazebo_Simulator"
 
   - The step file of the "Puzzlebot_base" can be found in the folder "Puzzlebot_Step_Files".
