@@ -18,7 +18,8 @@
 ---
   ## Presentations
   
-   ### MCR2_
+   ### MCR2_RandomVariables_Linearisation
+   This presentations intoruces the concepts of dead reckoning localisation, probabilities, discrete and continuos random variables, and linearisation around an equilibrium point and an operating point
 
 
 
