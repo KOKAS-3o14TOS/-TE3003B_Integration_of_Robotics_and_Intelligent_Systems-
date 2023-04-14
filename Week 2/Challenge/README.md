@@ -15,11 +15,16 @@
 # Week 2: Mini challenge
 
 * In this folder, the student will find the neccessary files for Mini challenge 2.
-* The instruction for this challenge can be found inside the presentation *MCR2_MiniChallenge2*
+* The instruction for this challenge can be found inside the presentation *MCR2_Mini_Challenge2*
 
 
 ## Description
-This activity is intended for the student to review the concepts introduced in this week.
+* This challenge is intended for the student to review the concepts introduced in this week.
+* This challenge aims to show the students how the noise and other perturbations affect robotic platforms.
+
+* Using the simulator developed for the Mini challenge 1, and the different tests to analyse the position uncertainty;  estimate the uncertainty distribution and plot the confidence ellipsoid  for the  Puzzlebot.
+
+
 
 
 ## Notes
