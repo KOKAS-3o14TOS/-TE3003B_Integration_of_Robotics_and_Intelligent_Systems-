@@ -64,6 +64,20 @@ rosrun teleop_twist_keyboard teleop_twist_keyboard.py
 * See how the robot traverses accordingly the environment.
 
 
+## Add a new world to the MCR2 simulator
+
+* Create your own Gazebo World ui.e., *test.world*
+* Save the *.world* file inside the folder *Puzzlebot_Gazebo_Simulator/puzzlebot_world/worlds/*
+* Open the launch file inside the folder *Puzzlebot_Gazebo_Simulator/puzzlebot_world/launch/puzzlebot_obstacle_world.launch*
+* Change the following line with the name of your world
+
+```
+<arg name="world_name" value="$(find puzzlebot_world)/worlds/test.world"/>
+```
+
+* Save the launch file.
+* Launch your nodes using the launch file *puzzlebot_obstacle_world.launch*
+
 
 ## Quick Troubleshooting
 - ### Gazebo is not closing properly?
