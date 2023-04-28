@@ -12,10 +12,10 @@
 
 ---
 
-# Week 2: Mini challenge
+# Week 4: Mini challenge
 
-* In this folder, the student will find the neccessary files for Mini challenge 2.
-* The instruction for this challenge can be found inside the presentation *MCR2_Mini_Challenge2*
+* In this folder, the student will find the neccessary files for Mini challenge 4.
+* The instruction for this challenge can be found inside the presentation *MCR2_Mini_Challenge4*
 
 
 ## Description
@@ -29,8 +29,6 @@
 
 ## Notes
   - The gazebo Simulator can be found in the folder "Puzzlebot_Gazebo_Simulator"
-
-  - The step file of the "Puzzlebot_base" can be found in the folder "Puzzlebot_Step_Files".
 
   - Remember to make the nodes executable using the the following command inside the catkin_ws/src/basic_comms/src and catkin_ws/src/basic_comms/src
  folders 
