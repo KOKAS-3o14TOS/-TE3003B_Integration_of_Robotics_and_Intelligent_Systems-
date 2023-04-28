@@ -11,28 +11,46 @@
 </picture>
 
 ---
-# TE3003B Week 4: Introductory session.
+# TE3003B Week 2: Reactive navigation.
 ---
  
- This week will introduce the teaching team and the basics of dynamical systems.
+ In this week, the concept of reactive navigation for robotics will be introduced.
  
   ## Session 1
-
+  * Exteroceptive sensors.
+    - Obstacle avoidance
+    - Obstacle avoidance algorithms:
+        - Bug 0
+        - Bug 1
+        - Bug 2.
   
   ## Session 2
-
-
+  * Q&A Session
 
   ## Mini Challenge
+  * Implementation of obstacle avoidance algorithms Bug 0 and Bug 2 in simulation (Gazebo) and with the real robot.
+  
+  ## YouTube Video
+  * [Point to point navigation](https://www.youtube.com/watch?v=vBDHNeUKEYU&feature=youtu.be&themeRefresh=1)
 
----
-
-## YouTube Video
-
+  * [Dynamical systems](https://www.youtube.com/playlist?list=PLqCuMQTwnIP99CrzdPEroGhdAhzVfvWgR)
 
 ---
 
 ### Useful Links: 
+#### Robotics
+  * [Mobile Robotics](https://www.robots.ox.ac.uk/~pnewman/Teaching/C4CourseResources/C4BMobileRobots.pdf)
+  * [Introduction to Autonomous Mobile Robots](https://www.ucg.ac.me/skladiste/blog_13268/objava_56689/fajlovi/Introduction%20to%20Autonomous%20Mobile%20Robots%20book.pdf)
+  * [Probabilistic Robotics](https://docs.ufpr.br/~danielsantos/ProbabilisticRobotics.pdf)
+  * [Handbook of Robotics](https://link.springer.com/book/10.1007/978-3-540-30301-5)
+  * [A Covariance Matrix Estimation Method for Position Uncertainty of
+the Wheeled Mobile Robot](https://koreascience.kr/article/CFKO200333239337244.pdf)
+  * [Mobile Robotics](https://www.ensta-bretagne.fr/jaulin/kalmooc.pdf)
+  * [Position and orientation control of a two wheeled differentially driven nonholonomic robot](https://www.dca.ufrn.br/~adelardo/artigos/ICINCO04a.pdf)
+
+
+  
+
 #### Dynamical Systems
   * [Nonlinear Systems](https://books.google.fr/books/about/Nonlinear_Systems.html?id=t_d1QgAACAAJ&redir_esc=y)
   * [Nonlinear & Adaptive Systems](https://digital-library.theiet.org/content/books/ce/pbce084e)
