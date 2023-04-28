@@ -20,9 +20,11 @@
 
 ## Description
 * This challenge is intended for the student to review the concepts introduced in this week.
-* This challenge aims to show the students how the noise and other perturbations affect robotic platforms.
+* This challenge aims to show the students different reactive navigation algorithms for moobile robots
 
-* Using the simulator developed for the Mini challenge 1, and the different tests to analyse the position uncertainty;  estimate the uncertainty distribution and plot the confidence ellipsoid  for the  Puzzlebot.
+* Using the Gazebo simulator provided, develop 2 different reactive navigation strategies for the Puzzlebot.
+  - Bug 0
+  - Bug 2
 
 
 
