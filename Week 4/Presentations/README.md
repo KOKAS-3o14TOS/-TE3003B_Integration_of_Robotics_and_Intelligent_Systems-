@@ -18,7 +18,7 @@
 ---
   ## Presentations
   
-   ### MCR2_
+   ### MCR2_Reactive_Navigation
    This presentations intoruces the concepts of reactive navigation and obstacle avoidance techniques for robotics.
 
 
