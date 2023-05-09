@@ -13,23 +13,21 @@
 ---
 # TE3003B Week 6: Robust Localisation.
 ---
- 
+
  This week will introduce concepts of Map based localisation and Kalman Filter.
  
   ## Session 1
-    * Midterm Challenge Results
-    * Introduction to Map Based Localisation
+  * Midterm Challenge Results
+  * Introduction to Map Based Localisation
   
   ## Session 2
-    •	Bayes Filter.
-    •	Kalman Filter
-    •	Kalman Filter for map-based localisation (2D).
-    
-    •	Kalman Filter for map-based localisation (2D).
-    •	Camera based localisation for mobile robots.
-        o	Aruco markers
-        o	Visual localisation of mobile robots using Aruco markers
-        o	Kalman filter for map-based localisation in 3D. Kalman filter estimation by combining visual localization with encoder information.
+* Bayes Filter.
+* Kalman Filter
+*	Kalman Filter for map-based localisation (2D).
+*	Camera based localisation for mobile robots.
+    -	Aruco markers
+    -	Visual localisation of mobile robots using Aruco markers
+    -	Kalman filter for map-based localisation in 3D. Kalman filter estimation by combining visual localization with encoder information.
 
   ## Mini Challenge
     * TBD
