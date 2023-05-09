@@ -11,26 +11,9 @@
 </picture>
 
 ---
-# TE3003B Week 5: Introductory session.
----
- 
- This week will introduce the teaching team and the basics of dynamical systems.
- 
-  ## Session 1
-
-  
-  ## Session 2
-
-
-
-  ## Mini Challenge
-
+# TE3003B Week 5: Q&A Week
 ---
 
-## YouTube Video
-
-
----
 
 ### Useful Links: 
 #### Dynamical Systems
