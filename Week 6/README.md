@@ -29,16 +29,31 @@
     -	Visual localisation of mobile robots using Aruco markers
     -	Kalman filter for map-based localisation in 3D. Kalman filter estimation by combining visual localization with encoder information.
 
-  ## Mini Challenge
-    * TBD
----
-
-## YouTube Video
-
+  ## Final Challenge
+    * This challenge consists in autonomously exploring an unknown environment using the Puzzlebot.
 
 ---
+
+
 
 ### Useful Links: 
+
+#### EKF Localisation
+  * [ArUco Marker Detection](https://docs.opencv.org/4.x/d5/dae/tutorial_aruco_detection.html)
+  * [ArUco Marker Module](https://docs.opencv.org/4.x/d9/d6d/tutorial_table_of_content_aruco.html)
+  * [Camera Calibration](https://docs.opencv.org/4.x/d9/d0c/group__calib3d.html)
+  * [Camera Calibration example](https://docs.opencv.org/4.x/dc/dbb/tutorial_py_calibration.html)
+  * [Camera Models](https://web.stanford.edu/class/cs231a/course_notes/01-camera-models.pdf)
+  * [Visual localisation of mobile robots](https://core.ac.uk/download/pdf/82180464.pdf)
+  * [EKF Localisation](https://ieeexplore.ieee.org/document/9843066)
+  * [EKF Localisation WSN](https://www.sciencedirect.com/science/article/pii/S2352864820302601)
+  * [Guaranteed Slam An Interval Approach / Thesis.](https://pure.manchester.ac.uk/ws/portalfiles/portal/60828137/FULL_TEXT.PDF)
+  * [Guaranteed SLAM an Interval Approach](https://www.sciencedirect.com/science/article/abs/pii/S0921889017303986?via%3Dihub)
+  * [Automatic generation and detection of highly reliable ﬁducial markers under occlusion](https://www.researchgate.net/publication/260251570_Automatic_generation_and_detection_of_highly_reliable_fiducial_markers_under_occlusion)
+  * [Interval Extended Kalman Filter—Application to Underwater Localization and Control](https://www.ensta-bretagne.fr/jaulin/paper_iekf.pdf)
+
+
+
 #### Dynamical Systems
   * [Nonlinear Systems](https://books.google.fr/books/about/Nonlinear_Systems.html?id=t_d1QgAACAAJ&redir_esc=y)
   * [Nonlinear & Adaptive Systems](https://digital-library.theiet.org/content/books/ce/pbce084e)

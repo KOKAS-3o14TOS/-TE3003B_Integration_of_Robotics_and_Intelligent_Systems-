@@ -15,17 +15,19 @@
 # Week 6: Final challenge
 
 * In this folder, the student will find the neccessary files for the Final Challenge.
-* The instruction for this challenge can be found inside the presentation *MCR2_Final_Challenge*
+* The instruction for this challenge can be found inside the presentation *MCR2_Final_Challenge*.
+* The instruction on how to install the Aruco Libraries for the Jetson can be found in *MCR2_ArucoMarkers*.
+* The scripts for installing OpenCV in the Jetson (provided you read the instructions int he presentation).
 
 
 ## Description
-* 
-
-
+* This challenge is intended for the student to review the concepts introduced in this course.
+* This challenge consists in autonomously exploring an unknown environment using the Puzzlebot.
+* The challenge must be implemented in Gazebo, and it is encouraged but not required to be implemented with the real robot.
 
 
 ## Notes
-  - The gazebo Simulator can be found in the folder "Puzzlebot_Gazebo_Simulator"
+  - The gazebo world can be found in the folder "Gazebo Worlds"
 
   - Remember to make the nodes executable using the the following command inside the catkin_ws/src/basic_comms/src and catkin_ws/src/basic_comms/src
  folders 
