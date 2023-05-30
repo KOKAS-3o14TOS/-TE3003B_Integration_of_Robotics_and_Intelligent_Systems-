@@ -14,6 +14,12 @@
 
 # Week 6: Final challenge
 
+## :alarm_clock: Deadlines
+Final Presentation: **7 June 2023, 11 AM (Central Mexico Time)**  
+
+Video Submission Deadline: **5 June 2023, 4 PM (Central Mexico Time)**
+
+## Introduction
 * In this folder, the student will find the neccessary files for the Final Challenge.
 * The instruction for this challenge can be found inside the presentation *MCR2_Final_Challenge*.
 * The instruction on how to install the Aruco Libraries for the Jetson can be found in *MCR2_ArucoMarkers*.
