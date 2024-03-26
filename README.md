@@ -23,16 +23,16 @@
    
 ## General Information
 * Duration: 10 Weeks
-* Classes: Tuesday and Friday  (1 – 3 PM)
-* Starts: 28 March.
-* Ends: 1 June
-* ZOOM Link Classes: https://itesm.zoom.us/j/4779422764
+* Classes: Friday  (1 – 3 PM)
+* Starts: 1 April.
+* Ends: 31 May
+* ZOOM Link Classes: TBD
 
 ## Youtube Videos
 [Class Videos Playlist](https://www.youtube.com/playlist?list=PLqCuMQTwnIP99CrzdPEroGhdAhzVfvWgR)
 
 ## Live Sessions (Recordings)
-[Live Sessions](https://drive.google.com/drive/folders/1D3qe0rzVFOPstyEce69FFrkXBgMm5ll6?usp=sharing)
+ TBD
  
 ## General Requirements
 General requirements. Please be aware that a set of requirements especific for each session will be shown in each session subsection (Some items may be repeated).
@@ -51,44 +51,46 @@ General requirements. Please be aware that a set of requirements especific for e
 
 ## Weekly Sessions
 
-  ### Week 1: (Mobile Robots – Fundamentals)
+  ### Week 1: Dynamical Systems
   This week will introduce the teaching team and the basics of dynamical systems.
-  #### Session 1:
+  #### Session:
   * Course Introduction.
   *	Dynamical Systems.
   *	State space representations.
   *	Linear and Nonlinear systems.
   *	Discrete Time Systems.
 
-  #### Session 2:
+  
+  **Mini challenge:** 
+  *	Model a nonlinear system in State Space using ROS and visualise it using RVIZ.
+
+  **Requirements:** Computer with access to Zoom, Ubuntu 18.04 and ROS Melodic Installed (Full installation).
+  
+  ### Week 2: Mobile Robots – Fundamentals
+  This week will introduce a review of mobile robotics.
+  #### Session:
   *	Introduction to mobile robotics.
   *	Kinematics for a differential drive mobile robot.
   *	Proprioceptive and exteroceptive sensors.
-  *	Dead Reckoning (Encoder based localisation)
-  *	Point to point navigation.
+  *	Dead Reckoning (Encoder-based localisation)
+  *	Point-to-point navigation.
 
-  
   **Mini challenge:** 
-  *	Move the Puzzlebot in a straight line (open loop) from point A to point B, for a specified time. Repeat the experiment 15 to 20 times and record the position data. 
-  * Turn the robot from an initial angle (open loop), for a specific time to a final angle, and record the position data. Repeat the experiment 15 to 20 times.
-  *	The experiment must be run with the real robot, Gazebo and kinematic simulation.
-  *	Multiple point navigation for the different paths designed. Repeat experiment multiple times.
-  
+  *	Model the Puzzlebot in ROS and Visualise it in RVIZ.
+  *	Move the robot using a point-to-point navigation strategy.
+
+
   **Requirements:** Computer with access to Zoom, Ubuntu 18.04 and ROS Melodic Installed (Full installation).
-  
-  ### Week 2: (Uncertainty in mobile robotics)  
-  This week will introduce some basics of probabilities.
-  #### Session 1:
+
+
+
+  ### Week 3: Probabilities in Robotics
   * Introduction to probabilities
     -	Preliminaries (Basics).
     -	Discrete random variables.
     -	Continuous random variables.
     -	Distributions (Uniform, Gaussian)
   *	Linearisation – Fundamentals
-
-  #### Session 2:
-  * Ellipsoid of confidence.
-  *	Mobile robot localisation (dead reckoning) in presence of uncertainties
   
   **Mini challenge:**: 
   * Linearise of a dynamical system and compare its behaviour with the original nonlinear real system.
@@ -97,57 +99,51 @@ General requirements. Please be aware that a set of requirements especific for e
   
   **Requirements:** Requirements of Session 1.
 
-  ### Week 3: Q&A
-  This week will be dedicated to a Q&A session.
-  #### Session 1:
-  * Q&A Session
+
   
-  #### Session 2:
-  * Q&A Session.
-  
-  **Requirements:** Requirements of Session 1.
-  
-  ### Week 4: Reactive navigation
+  ### Week 4: Uncertainty in mobile robotics
   This week will introduce the concept of reactive navigation for robotics.
-  #### Session 1:
-  * •	Exteroceptive sensors.
+  #### Session:
+  *	Ellipsoid of confidence.
+  *	Mobile robot localisation (dead reckoning) in the presence of uncertainties
+  
+  
+  **Mini challenge:**: 
+  * Move the Puzzlebot in a straight line (open loop) from point A to point B, for a specified time. Repeat the experiment 15 to 20 times and record the position data. 
+  * Turn the robot from an initial angle (open loop), for a specific time to a final angle, and record the position data. Repeat the experiment 15 to 20 times.
+  * The experiment must be run with the real robot, Gazebo and kinematic simulation.
+
+  * Multiple point navigation for the different paths designed. Repeat the experiment multiple times.
+
+  *	Plot the confidence ellipsoid of a mobile robot. Use the multiple-point navigation.
+    
+  **Requirements:** Requirements of Session 1 and Session 3.
+
+
+  ### Week 5: Final Challenge
+  This week will introduce the concept of reactive navigation for robotics.
+  
+  #### Session:
+  * Exteroceptive sensors.
   *	Obstacle avoidance
   *	Obstacle avoidance algorithms: 
     - Bug 0, Bug 1, Bug 2.
-  
-  #### Session 2:
-  * Q&A Session.
-  
-  **Requirements:** Requirements of Session 1 and Session 3.
-  
+
   **Mini challenge:**: 
   * Implementation of obstacle avoidance algorithms Bug 0 and Bug 2 in simulation (Gazebo) and with the real robot.
-  
-  
-  ### Week 5: Final Challenge
-  This week will be dedicated to a Q&A session.
-  
-  #### Session 1:
-  * Q&A Session.
-  #### Session 2:
-  * Q&A Session.
   
   **Requirements:** Requirements of Session 1.
 
   ### Week 6: Sources of information
   This week the concept of Kalman filter will be introduced.
   
-  #### Session 1:
+  #### Session:
   * Bayes Filter.
   *	Kalman Filter
   *	Kalman Filter for map-based localisation (2D).
 
-  #### Session 2:
-  * Kalman Filter for map-based localisation (2D).
-  *	Camera based localisation for mobile robots.
-    -	Aruco markers
-    -	Visual localisation of mobile robots using Aruco markers
-    -	Kalman filter for map-based localisation in 3D. Kalman filter estimation by combining visual localization with encoder information.
+  **Mini challenge:**: 
+  * Implementation of obstacle avoidance algorithms Bug 0 and Bug 2 in simulation (Gazebo) and with the real robot.
 
   
   **Requirements:** Requirements of Session 1.
@@ -156,6 +152,14 @@ General requirements. Please be aware that a set of requirements especific for e
   ### Week 7: Final Challenge
   This week the Final Challenge will be presented.
   
+  #### Session:
+  * Kalman Filter for map-based localisation (2D).
+  *	Camera based localisation for mobile robots.
+    -	Aruco markers
+    -	Visual localisation of mobile robots using Aruco markers
+    -	Kalman filter for map-based localisation in 3D. Kalman filter estimation by combining visual localization with encoder information.
+
+
   #### Final Challenge
   *	Mobile robots’ navigation
   *	Camera based Kalman filter localisation for the Puzzlebot. (Steps)
@@ -167,19 +171,16 @@ General requirements. Please be aware that a set of requirements especific for e
   ### Week 8: Final Challenge
   This week will be dedicated to a Q&A session.
   
-  #### Session 1:
+  #### Session:
   * Q&A Session.
-  #### Session 2:
-  * Q&A Session.
+
 
   ### Week 9: Grading
   This week will be dedicated to a Q&A session.
   
-  #### Session 1:
-  * Q&A Session.
-  #### Session 2:
+  #### Session:
   * Grading.
-  * 
+
 
     ---
 ## Declaration
