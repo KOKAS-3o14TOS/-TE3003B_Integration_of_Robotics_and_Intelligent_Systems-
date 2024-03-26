@@ -120,7 +120,7 @@ General requirements. Please be aware that a set of requirements especific for e
   **Requirements:** Requirements of Session 1 and Session 3.
 
 
-  ### Week 5: Final Challenge
+  ### Week 5: Reactive navigation
   This week will introduce the concept of reactive navigation for robotics.
   
   #### Session:
